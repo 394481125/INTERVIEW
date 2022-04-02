@@ -7,7 +7,7 @@
 
 |领域|缩写|编写情况|
 |:-:|:-:|:-:|
-|python|[python](https://github.com/394481125/INTERVIEW/blob/master/python.md)|❌|
+|python|[python](https://github.com/394481125/INTERVIEW/blob/master/python.md)|✅|
 |机器学习|ML|❌|
 |深度学习|DL|❌|
 |计算机视觉|CV|❌|
