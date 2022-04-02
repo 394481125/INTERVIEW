@@ -20,3 +20,6 @@
 
 # 工具
 - [在线生成您的 MarkDown TOC](https://ecotrust-canada.github.io/markdown-toc/)
+- [五款轻量型bug管理工具横向测评](https://blog.csdn.net/ameetones/article/details/70807690)
+- [最好用的七大顶级 API 接口测试工具](https://zhuanlan.zhihu.com/p/445755310)
+- [在线API 接口测试工具APIPOST](https://console.apipost.cn/)
