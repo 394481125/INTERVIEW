@@ -8,13 +8,14 @@
 |领域|缩写|编写情况|
 |:-:|:-:|:-:|
 |python|[python](https://github.com/394481125/INTERVIEW/blob/master/python.md)|✅|
-|机器学习|ML|❌|
-|深度学习|DL|❌|
-|计算机视觉|CV|❌|
-|自然语言处理|NLP|❌|
-|光学字符识别|OCR|❌|
-|推荐算法|Recommend|❌|
-|音频算法|Audio|❌|
+|linux|[linux](https://github.com/394481125/INTERVIEW/blob/master/linux.md)|❌|
+|机器学习|[ML](https://github.com/394481125/INTERVIEW/blob/master/machine_learning.md)|❌|
+|深度学习|[DL](https://github.com/394481125/INTERVIEW/blob/master/deep_learning.md)|❌|
+|计算机视觉|[CV](https://github.com/394481125/INTERVIEW/blob/master/cumputer_vision.md)|❌|
+|自然语言处理|[NLP](https://github.com/394481125/INTERVIEW/blob/master/natural_language_processing.md)|❌|
+|光学字符识别|[OCR](https://github.com/394481125/INTERVIEW/blob/master/optical_character_recognition.md)|❌|
+|推荐算法|[Recommend](https://github.com/394481125/INTERVIEW/blob/master/recommend.md)|❌|
+|音频算法|[Audio](https://github.com/394481125/INTERVIEW/blob/master/audio.md)|❌|
 |...|...|...|
 
 
